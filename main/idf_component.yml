@@ -1,0 +1,4 @@
+## Manifeste du gestionnaire de composants ESP-IDF
+dependencies:
+  idf:
+    version: ">=6.1.0"
